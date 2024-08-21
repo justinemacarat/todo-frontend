@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Important functionalities
+Click on an existing to-do item, make your changes, and press 'Enter' to save the updated to do.
